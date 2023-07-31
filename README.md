@@ -2,7 +2,7 @@
 
 ## Tópicos de interesse:
 
-1 - Processamento de energia: Eletrônica, controle e potência.
+0 - [Plano de ensino](AL0-PlanoEnsino.html)
 
-2 - Diodos e circuitos retificadores:
+1 - [Processamento de energia]()
 

@@ -1,0 +1,43 @@
+---
+title: "Plano de Ensino"
+subtitle: "Eletrônica de Potência"
+institute: "UFPA - CAMTUC - FEE"
+author: "Prof. Dr. Raphael Teixeira"
+#date: "08/12/202"
+output:
+  xaringan::moon_reader:
+    # css: [default, metropolis, metropolis-fonts]
+    css: [default,\libs\ufpa-fontes.css, libs\ufpa.css]
+    lib_dir: libs
+    seal: true
+    nature:
+      #titleSlideClass: ["right", "top"]
+      highlightStyle: github
+      highlightLines: true
+      #highlightLanguage: ["r"]
+      countIncrementalSlides: false
+      ratio: "16:10"
+  
+---
+
+# Processamento de energia
+
+---
+
+# Conteúdo
+
+- Processamento de energia: Controle, eletrônica, potência;
+
+- Dispositivos eletrônicos de potência: Diodos
+
+- Conversores CA-CC: Retificadores a diodo
+
+- Chaves de potência: BJT, MOSFET, IGBT
+
+- Conversores CC-CC: Buck e Boost
+
+- Conversores CC-CA: Inversores
+
+
+---
+class: title-slide-final, middle
