@@ -1,0 +1,32 @@
+---
+title: "Eletrônica de Potência"
+subtitle: "Devices, Circuits, and Applications"
+institute: "Universidade Federal do Pará"
+author: "Prof. Dr. Raphael Teixeira"
+lang: pt-BR
+format:
+  html:
+    theme: [cosmo, TemaRTx.scss]
+---
+
+**Livro:** *Power Electronics: Devices, Circuits, and Applications*
+**Autor:** Muhammad H. Rashid
+**Edição:** 4ª ed. (International Edition), Pearson, 2014
+
+Notas de Leitura:
+
+* Capítulo 1: [Introdução](Notas/Cap01Introducao.qmd)
+* Capítulo 2: Diodos de Potência e Circuitos RLC Comutados *(em breve)*
+* Capítulo 3: Retificadores a Diodo *(em breve)*
+* Capítulo 4: Transistores de Potência *(em breve)*
+* Capítulo 5: [Conversores CC-CC](Notas/Cap05ConversoresCCCC.qmd)
+* Capítulo 6: [Conversores CC-CA (Inversores)](Notas/Cap06Inversores.qmd)
+* Capítulo 7: Inversores Ressonantes *(em breve)*
+* Capítulo 8: Inversores Multiníveis *(em breve)*
+* Capítulo 9: Tiristores *(em breve)*
+* Capítulo 10: Retificadores Controlados *(em breve)*
+* Capítulo 11: Controladores de Tensão CA *(em breve)*
+* Capítulo 12: Sistemas FACTS *(em breve)*
+* Capítulo 13: Fontes de Alimentação *(em breve)*
+* Capítulo 14: Acionamentos CC *(em breve)*
+* Capítulo 15: Acionamentos CA *(em breve)*

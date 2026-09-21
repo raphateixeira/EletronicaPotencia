@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "Notas/*.qmd"
+    - "!Draft.md"
+
+bibliography: Livro/Referencias.bib
+
+website:
+  title: "Eletrônica de Potência — Rashid"
+  site-url: https://raphateixeira.github.io/EletronicaPotencia/
+  repo-url: https://github.com/raphateixeira/EletronicaPotencia
+
+format:
+  html:
+    theme: [cosmo, TemaRTx.scss]
+    lang: pt-BR
+  revealjs:
+    theme: [simple, TemaRTx.scss]
+    lang: pt-BR
+    width: 1600
+    height: 900
+    transition: fade
+    slide-level: 0
+    footer: "UFPA-CAMTUC-FEE"
+    title-slide-attributes:
+      data-background-image: "imgs/ufpa-colorido.png"
+      data-background-size: "84px"
+      data-background-position: "top 45px center"
