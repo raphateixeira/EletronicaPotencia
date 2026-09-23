@@ -9,6 +9,8 @@ format:
     theme: [cosmo, TemaRTx.scss]
 ---
 
+[⬅ Site principal](https://raphateixeira.github.io)
+
 **Livro:** *Power Electronics: Devices, Circuits, and Applications*
 **Autor:** Muhammad H. Rashid
 **Edição:** 4ª ed. (International Edition), Pearson, 2014
